@@ -11,6 +11,7 @@ Upload the code to Arduino Nano, setting up 6 PIR sensors in 6 direction and plu
 # Samples:
 
 ![20240125_114357695_iOS](https://github.com/TrongNhanNg/Camping-Alarm-Project/assets/95125956/94b2731c-fe7f-47f6-82a6-37120fdc3754)
+![20240118_173327863_iOS](https://github.com/TrongNhanNg/Camping-Alarm-Project/assets/95125956/db39e782-f046-4d9f-bdc5-6b06a066eeab)
 ![20240120_123336573_iOS](https://github.com/TrongNhanNg/Camping-Alarm-Project/assets/95125956/89019eb5-7e47-42e6-9a87-c31e3a14595a)
 ![20240120_123354984_iOS](https://github.com/TrongNhanNg/Camping-Alarm-Project/assets/95125956/2154ec25-8a8c-4dce-98cc-d7f6188178c9)
 ![20240120_123742511_iOS](https://github.com/TrongNhanNg/Camping-Alarm-Project/assets/95125956/cbf6ec3c-e4c5-409d-96fe-151781226288)
